@@ -1,5 +1,7 @@
 # Zen
 
+I've just realized Atom already has a "Toggle Tree View" command, so this is deprecated :P.
+
 Slight modification to @defunkt's Zen package.
 
 Distraction free writing for Atom.
