@@ -1,5 +1,7 @@
 # Zen
 
+Slight modification to @defunkt's Zen package.
+
 Distraction free writing for Atom.
 
 Toggle with `cmd-ctrl-z`.
